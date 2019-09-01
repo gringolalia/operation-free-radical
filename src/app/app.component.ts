@@ -11,14 +11,34 @@ import { StatusBar } from '@ionic-native/status-bar/ngx';
 export class AppComponent {
   public appPages = [
     {
-      title: 'Home',
+      title: 'Home Cooking',
       url: '/home',
-      icon: 'home'
+      icon: 'infinite'
     },
     {
-      title: 'List',
+      title: 'Soul Food Dishes',
+      url: '/last',
+      icon: 'bicycle'
+    },
+    {
+      title: 'Fishes and Chips',
       url: '/list',
-      icon: 'list'
+      icon: 'umbrella'
+    },
+    {
+      title: 'Loaves and Fishes',
+      url: '/least',
+      icon: 'logo-ionic'
+    },
+    {
+      title: 'Tacos y Enchiladas',
+      url: '/lost',
+      icon: 'airplane'
+    },
+    {
+      title: 'Feijoada Completa',
+      url: '/lust',
+      icon: 'mic'
     }
   ];
 
