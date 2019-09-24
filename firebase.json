@@ -1,0 +1,11 @@
+{
+  "hosting": {
+		"site": "operation-free-radical",
+    "public": "dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
