@@ -1,6 +1,6 @@
 {
   "hosting": {
-		"site": "operation-free-radical",
+		"site": "free-radicalism",
     "public": "dist",
     "ignore": [
       "firebase.json",
